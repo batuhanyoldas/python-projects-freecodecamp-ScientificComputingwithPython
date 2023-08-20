@@ -1,8 +1,12 @@
 # python-projects-freecodecamp-ScientificComputingwithPython
 Final projects from the freeCodeCamp course "Scientific Computing with Python"
 
--Arithmetic Formatter\n
--Time Calculator\n
--Budget App\n
--Polygon Area Calculator\n
+-Arithmetic Formatter
+
+-Time Calculator
+
+-Budget App
+
+-Polygon Area Calculator
+
 -Probability Calculator
